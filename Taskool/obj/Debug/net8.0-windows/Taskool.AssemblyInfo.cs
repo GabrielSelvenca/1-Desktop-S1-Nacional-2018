@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taskool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad8c7697fad8c317ebe024660dd51959967a02a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30b3ca4314a0d74f7b2c0472580f8dd4a03de8d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taskool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taskool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

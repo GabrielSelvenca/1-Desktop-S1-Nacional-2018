@@ -71,7 +71,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(178, 369);
+            button1.Location = new Point(178, 383);
             button1.Name = "button1";
             button1.Size = new Size(92, 34);
             button1.TabIndex = 3;
@@ -105,9 +105,10 @@
             // pictureBox1
             // 
             pictureBox1.BackgroundImage = Properties.Resources.user;
+            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
             pictureBox1.Location = new Point(167, 267);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(112, 96);
+            pictureBox1.Size = new Size(110, 110);
             pictureBox1.TabIndex = 6;
             pictureBox1.TabStop = false;
             pictureBox1.DoubleClick += pictureBox1_DoubleClick;
@@ -147,6 +148,7 @@
             Controls.Add(userTxtbox);
             Name = "Entrar";
             Text = "Entrar";
+            FormClosing += Entrar_FormClosing;
             KeyDown += Entrar_KeyDown;
             KeyUp += Entrar_KeyUp;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Desktop\\Desktop Treinos\\1-Desktop-S1-Nacional-2018\\Taskool\\Taskool.csproj": {}
+    "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Taskool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Desktop\\Desktop Treinos\\1-Desktop-S1-Nacional-2018\\Taskool\\Taskool.csproj": {
+    "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Taskool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\Desktop Treinos\\1-Desktop-S1-Nacional-2018\\Taskool\\Taskool.csproj",
+        "projectUniqueName": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Taskool.csproj",
         "projectName": "Taskool",
-        "projectPath": "C:\\Users\\gabri\\Desktop\\Desktop Treinos\\1-Desktop-S1-Nacional-2018\\Taskool\\Taskool.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Desktop\\Desktop Treinos\\1-Desktop-S1-Nacional-2018\\Taskool\\obj\\",
+        "projectPath": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Taskool.csproj",
+        "packagesPath": "C:\\Users\\57059750827\\.nuget\\packages\\",
+        "outputPath": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\57059750827\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0-windows8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0-windows8.0": {
+            "targetAlias": "net8.0-windows8.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,24 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0-windows8.0": {
+          "targetAlias": "net8.0-windows8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,7 +85,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,5 +1,4 @@
 using System.Diagnostics;
-using System.Windows.Forms.VisualStyles;
 
 namespace Taskool
 {
@@ -22,7 +21,7 @@ namespace Taskool
         public Entrar()
         {
             InitializeComponent();
-            
+
             StartPosition = FormStartPosition.CenterScreen;
             KeyPreview = true;
             KeyDown += Entrar_KeyDown;
@@ -35,51 +34,52 @@ namespace Taskool
         private void button1_Click(object sender, EventArgs e)
         {
             string usuarioDigitado = userTxtbox.Text;
-            string usuarioLogin = "Admin";
 
             string imagemAceita = @"C:\foto_admin.png";
 
-            bool usuarioOk = usuarioDigitado == usuarioLogin;
+            var usuarioOk = usuarios.FirstOrDefault(u => u.nome == usuarioDigitado);
 
             if (fotoEnviada.Length > 1)
             {
                 bool fotoOk = VerificarImagem(imagemAceita, fotoEnviada);
-                if (usuarioOk && fotoOk)
+                if (usuarioOk != null && fotoOk)
                 {
-                    MessageBox.Show("Ok");
+                    Principal p = new Principal();
+                    p.Show();
+                    this.Hide();
                     return;
                 }
             }
-            
-                Console.Beep();
-                if (!Directory.Exists(caminhoUser_logs))
-                    Directory.CreateDirectory(caminhoUser_logs);
 
-                string primeiroNome = usuarioDigitado.Split(' ')[0];
-                string idUsuario = "nulo";
+            Console.Beep();
+            if (!Directory.Exists(caminhoUser_logs))
+                Directory.CreateDirectory(caminhoUser_logs);
 
-                var usuarioEncontrado = usuarios.FirstOrDefault(u => u.nome.Equals(usuarioDigitado, StringComparison.OrdinalIgnoreCase));
-                if (usuarioEncontrado != null)
-                    idUsuario = usuarioEncontrado.id.ToString();
+            string primeiroNome = usuarioDigitado.Split(' ')[0];
+            string idUsuario = "nulo";
+
+            var usuarioEncontrado = usuarios.FirstOrDefault(u => u.nome.Equals(usuarioDigitado, StringComparison.OrdinalIgnoreCase));
+            if (usuarioEncontrado != null)
+                idUsuario = usuarioEncontrado.id.ToString();
 
             string nomeDoArquivo = Path.Combine(caminhoUser_logs, $"{primeiroNome}{idUsuario}.txt");
 
-                bool novoArquivo = !File.Exists(nomeDoArquivo);
+            bool novoArquivo = !File.Exists(nomeDoArquivo);
 
-                using (StreamWriter sw = new StreamWriter(nomeDoArquivo, append: true))
+            using (StreamWriter sw = new StreamWriter(nomeDoArquivo, append: true))
+            {
+                if (novoArquivo)
                 {
-                    if (novoArquivo)
-                    {
-                        sw.WriteLine("Data;Hora;Usuario;IP");
-                    }
-
-                    string data = DateTime.Now.ToString("dd/MM/yyyy");
-                    string hora = DateTime.Now.ToString("HH:mm");
-                    string usuario = usuarioDigitado;
-                    string ip = PegarIp();
-
-                    sw.WriteLine($"{data};{hora};{usuario};{ip}");
+                    sw.WriteLine("Data;Hora;Usuario;IP");
                 }
+
+                string data = DateTime.Now.ToString("dd/MM/yyyy");
+                string hora = DateTime.Now.ToString("HH:mm");
+                string usuario = usuarioDigitado;
+                string ip = PegarIp();
+
+                sw.WriteLine($"{data};{hora};{usuario};{ip}");
+            }
 
             static string PegarIp()
             {
@@ -151,7 +151,7 @@ namespace Taskool
             ofd.Multiselect = false;
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                pictureBox1.Image = Image.FromFile(ofd.FileName);
+                pictureBox1.BackgroundImage = Image.FromFile(ofd.FileName);
                 fotoEnviada = ofd.FileName;
             }
         }
@@ -177,6 +177,11 @@ namespace Taskool
             Cadastrar cadastrar = new Cadastrar();
             cadastrar.Show();
             this.Hide();
+        }
+
+        private void Entrar_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
