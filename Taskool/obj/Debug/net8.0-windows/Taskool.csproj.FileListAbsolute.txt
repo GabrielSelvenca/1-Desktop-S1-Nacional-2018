@@ -14,3 +14,22 @@ C:\09_Projects\Atividades\Taskool\Taskool\obj\Debug\net8.0-windows\refint\Taskoo
 C:\09_Projects\Atividades\Taskool\Taskool\obj\Debug\net8.0-windows\Taskool.pdb
 C:\09_Projects\Atividades\Taskool\Taskool\obj\Debug\net8.0-windows\Taskool.genruntimeconfig.cache
 C:\09_Projects\Atividades\Taskool\Taskool\obj\Debug\net8.0-windows\ref\Taskool.dll
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\bin\Debug\net8.0-windows\Taskool.exe
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\bin\Debug\net8.0-windows\Taskool.deps.json
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\bin\Debug\net8.0-windows\Taskool.runtimeconfig.json
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\bin\Debug\net8.0-windows\Taskool.dll
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\bin\Debug\net8.0-windows\Taskool.pdb
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.Cadastrar.resources
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.Entrar.resources
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.Properties.Resources.resources
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.sourcelink.json
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.dll
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\refint\Taskool.dll
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.pdb
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\Taskool.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Desktop Treinos\1-Desktop-S1-Nacional-2018\Taskool\obj\Debug\net8.0-windows\ref\Taskool.dll
