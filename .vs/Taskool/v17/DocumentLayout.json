@@ -1,32 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\09_Projects\\Atividades\\Taskool---2018\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|c:\\09_projects\\atividades\\taskool---2018\\taskool\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|solutionrelative:taskool\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|c:\\09_projects\\atividades\\taskool---2018\\taskool\\entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|solutionrelative:taskool\\entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|C:\\09_Projects\\Atividades\\Taskool---2018\\taskool\\entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|solutionrelative:taskool\\entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|c:\\09_projects\\atividades\\taskool---2018\\taskool\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|solutionrelative:taskool\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|C:\\09_Projects\\Atividades\\Taskool---2018\\taskool\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|solutionrelative:taskool\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|C:\\09_Projects\\Atividades\\Taskool---2018\\taskool\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1E3097C5-08B3-494E-8A03-BFA15C17B785}|Taskool\\Taskool.csproj|solutionrelative:taskool\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -39,101 +14,20 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
         {
           "DockedHeight": 205,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Entrar.cs [Design]",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Entrar.cs",
-              "RelativeDocumentMoniker": "Taskool\\Entrar.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Entrar.cs [Design]",
-              "RelativeToolTip": "Taskool\\Entrar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T22:58:56.925Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cadastrar.cs [Design]",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Cadastrar.cs",
-              "RelativeDocumentMoniker": "Taskool\\Cadastrar.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Cadastrar.cs [Design]",
-              "RelativeToolTip": "Taskool\\Cadastrar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T20:23:02.95Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Principal.cs [Design]",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Principal.cs",
-              "RelativeDocumentMoniker": "Taskool\\Principal.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Principal.cs [Design]",
-              "RelativeToolTip": "Taskool\\Principal.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:43:25.382Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Entrar.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Entrar.cs",
-              "RelativeDocumentMoniker": "Taskool\\Entrar.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Entrar.cs",
-              "RelativeToolTip": "Taskool\\Entrar.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAYwLoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:03:47.483Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cadastrar.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Cadastrar.cs",
-              "RelativeDocumentMoniker": "Taskool\\Cadastrar.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Cadastrar.cs",
-              "RelativeToolTip": "Taskool\\Cadastrar.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAYwGMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T20:29:53.31Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Principal.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Principal.cs",
-              "RelativeDocumentMoniker": "Taskool\\Principal.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\Taskool---2018\\Taskool\\Principal.cs",
-              "RelativeToolTip": "Taskool\\Principal.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:44:37.358Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
