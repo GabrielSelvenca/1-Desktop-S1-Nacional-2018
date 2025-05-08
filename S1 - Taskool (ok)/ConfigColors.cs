@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace GabrielForm
 {
@@ -28,7 +29,6 @@ namespace GabrielForm
                 string[] maskParts = text.Split('.');
 
                 cor = Color.FromArgb(int.Parse(maskParts[0]), int.Parse(maskParts[1]), int.Parse(maskParts[2]));
-
                 panel1.BackColor = cor;
 
                 textBox1.Text = $"#{cor.R:X2}{cor.G:X2}{cor.B:X2}";

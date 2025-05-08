@@ -37,13 +37,27 @@
             this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.label4);
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.linkLabel2);
+            this.panel1.Controls.Add(this.button1);
+            this.panel1.Controls.Add(this.label3);
+            this.panel1.Controls.Add(this.pictureBox1);
+            this.panel1.Controls.Add(this.label2);
+            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.linkLabel1);
+            this.panel1.Size = new System.Drawing.Size(1287, 731);
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
-            this.button1.Location = new System.Drawing.Point(531, 564);
+            this.button1.Location = new System.Drawing.Point(474, 556);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(207, 52);
             this.button1.TabIndex = 0;
@@ -55,7 +69,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
-            this.label1.Location = new System.Drawing.Point(486, 77);
+            this.label1.Location = new System.Drawing.Point(429, 69);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(283, 31);
             this.label1.TabIndex = 2;
@@ -64,7 +78,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.textBox1.Location = new System.Drawing.Point(413, 270);
+            this.textBox1.Location = new System.Drawing.Point(356, 262);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(443, 26);
             this.textBox1.TabIndex = 3;
@@ -74,7 +88,7 @@
             // 
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.linkLabel1.Location = new System.Drawing.Point(874, 273);
+            this.linkLabel1.Location = new System.Drawing.Point(817, 265);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(114, 20);
             this.linkLabel1.TabIndex = 4;
@@ -86,7 +100,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label2.Location = new System.Drawing.Point(600, 247);
+            this.label2.Location = new System.Drawing.Point(543, 239);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(64, 20);
             this.label2.TabIndex = 5;
@@ -96,7 +110,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label3.Location = new System.Drawing.Point(589, 360);
+            this.label3.Location = new System.Drawing.Point(532, 352);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(84, 20);
             this.label3.TabIndex = 6;
@@ -106,7 +120,7 @@
             // 
             this.linkLabel2.AutoSize = true;
             this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.linkLabel2.Location = new System.Drawing.Point(589, 650);
+            this.linkLabel2.Location = new System.Drawing.Point(532, 642);
             this.linkLabel2.Name = "linkLabel2";
             this.linkLabel2.Size = new System.Drawing.Size(96, 20);
             this.linkLabel2.TabIndex = 7;
@@ -118,7 +132,7 @@
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Image = global::GabrielForm.Properties.Resources.user;
-            this.pictureBox1.Location = new System.Drawing.Point(555, 383);
+            this.pictureBox1.Location = new System.Drawing.Point(498, 375);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(145, 145);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -131,7 +145,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
             this.label4.ForeColor = System.Drawing.Color.Red;
-            this.label4.Location = new System.Drawing.Point(422, 311);
+            this.label4.Location = new System.Drawing.Point(365, 303);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(197, 22);
             this.label4.TabIndex = 8;
@@ -142,20 +156,12 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1287, 731);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.linkLabel2);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.linkLabel1);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 

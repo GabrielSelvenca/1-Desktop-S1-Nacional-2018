@@ -16,7 +16,7 @@ namespace GabrielForm.Resources
             InitializeComponent();
             this.Text = "Cadastro  |  Taskoool";
             this.FormClosed += Cadastrar_FormClosed;
-            panel1.BackColor = panel2.BackColor = panel3.BackColor = panel4.BackColor = Color.Transparent;
+            panel6.BackColor = panel2.BackColor = panel3.BackColor = panel4.BackColor = Color.Transparent;
         }
 
         private void Cadastrar_FormClosed(object sender, FormClosedEventArgs e)
@@ -31,12 +31,12 @@ namespace GabrielForm.Resources
 
         private void textBox1_Enter(object sender, EventArgs e)
         {
-            panel1.BackColor = Color.LightBlue;
+            panel6.BackColor = Color.LightBlue;
         }
 
         private void textBox1_Leave(object sender, EventArgs e)
         {
-            panel1.BackColor = Color.Transparent;
+            panel6.BackColor = Color.Transparent;
         }
 
         private void textBox2_Enter(object sender, EventArgs e)
@@ -71,7 +71,7 @@ namespace GabrielForm.Resources
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var noAscent = Encoding.GetEncoding("ISO-8859-8").GetBytes(textBox1.Text);
+            var noAscent = Encoding.GetEncoding("ISO-8859-8").GetBytes(textBox5.Text);
             var apelido = Encoding.UTF8.GetString(noAscent).ToLower();
             string[] parts = apelido.Split(' ');
 
@@ -111,7 +111,7 @@ namespace GabrielForm.Resources
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(textBox1.Text) || string.IsNullOrEmpty(textBox2.Text) || string.IsNullOrEmpty(textBox3.Text) || string.IsNullOrEmpty(textBox4.Text))
+            if (string.IsNullOrEmpty(textBox5.Text) || string.IsNullOrEmpty(textBox2.Text) || string.IsNullOrEmpty(textBox3.Text) || string.IsNullOrEmpty(textBox4.Text))
             {
                 "Todos os campos são obrigatórios!".Alert();
                 return;
@@ -127,7 +127,7 @@ namespace GabrielForm.Resources
 
             Usuario user = new Usuario
             {
-                Nome = textBox1.Text,
+                Nome = textBox5.Text,
                 Email = textBox2.Text,
                 Telefone = textBox3.Text,
                 Usuario1 = textBox4.Text,

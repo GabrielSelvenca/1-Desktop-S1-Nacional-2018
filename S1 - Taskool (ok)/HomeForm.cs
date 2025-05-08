@@ -1,9 +1,9 @@
-﻿using System;
+﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
+using System;
 using System.Windows.Forms;
-using Newtonsoft.Json;
+using System.Linq;
 using WMPLib;
 
 namespace GabrielForm
@@ -19,15 +19,15 @@ namespace GabrielForm
 
         private void pictureBox1_DoubleClick(object sender, EventArgs e)
         {
-            panel2.Visible = !panel2.Visible;
+            panel3.Visible = !panel3.Visible;
         }
 
         private void label7_Click(object sender, EventArgs e)
         {
-            UserData.user = null;
             var pergunta = "Deseja sair mesmo?".Question();
             if (pergunta == DialogResult.Yes)
             {
+                UserData.user = null;
                 Close();
                 new Form1().Show();
             }
@@ -70,7 +70,7 @@ namespace GabrielForm
         public class Mensagem
         {
             public string mensagem { get; set; }
-            public string autor {  get; set; }
+            public string autor { get; set; }
         }
 
         Random random = new Random();
@@ -147,14 +147,14 @@ namespace GabrielForm
             }
         }
 
-        private void panel1_DoubleClick(object sender, EventArgs e)
-        {
-            new ConfigColors(this).ShowDialog();
-        }
-
         private void timer1_Tick(object sender, EventArgs e)
         {
             label4.Text = DateTime.Now.ToString("HH:mm");
+        }
+
+        private void panel2_DoubleClick(object sender, EventArgs e)
+        {
+            new ConfigColors(this).ShowDialog();
         }
     }
 }

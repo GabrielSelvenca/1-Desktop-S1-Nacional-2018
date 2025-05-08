@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -27,7 +28,19 @@ namespace GabrielForm
             {
                 if (UserData.user.Senha != null)
                 {
-                    panel1.BackColor = ColorTranslator.FromHtml($"{UserData.user.Senha}");
+                    try
+                    {
+                        Color corPanel;
+                        var corHex = UserData.user.Senha.Trim().ToLower();
+
+                        corPanel = ColorTranslator.FromHtml(corHex);
+
+                        panel1.BackColor = corPanel;
+                    } catch (Exception ex)
+                    {
+                        panel1.BackColor = Color.Transparent;
+                        Debug.WriteLine("Error: " + ex.Message);
+                    }
                 }
             }
             PutStyle(panel1);

@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\configcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\configcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\configcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\configcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\configcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\configcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,22 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\cadastrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\cadastrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|c:\\09_projects\\atividades\\s1 - taskool (ok)\\s1 - taskool (ok)\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DD5E7BD-42E7-448B-BEDD-2C04CAC42249}|S1 - Taskool (ok)\\GabrielForm.csproj|solutionrelative:s1 - taskool (ok)\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,151 +39,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "parent.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\parent.cs",
-              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\parent.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\parent.cs",
-              "RelativeToolTip": "S1 - Taskool (ok)\\parent.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAywDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:43:48.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeForm.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\HomeForm.cs",
-              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\HomeForm.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\HomeForm.cs",
-              "RelativeToolTip": "S1 - Taskool (ok)\\HomeForm.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAADwv5EAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:38:31.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ConfigColors.cs",
               "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\ConfigColors.cs",
               "RelativeDocumentMoniker": "S1 - Taskool (ok)\\ConfigColors.cs",
               "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\ConfigColors.cs",
               "RelativeToolTip": "S1 - Taskool (ok)\\ConfigColors.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:03:09.224Z",
+              "WhenOpened": "2025-05-08T15:15:58.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ConfigColors.cs [Design]",
               "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\ConfigColors.cs",
               "RelativeDocumentMoniker": "S1 - Taskool (ok)\\ConfigColors.cs",
               "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\ConfigColors.cs [Design]",
               "RelativeToolTip": "S1 - Taskool (ok)\\ConfigColors.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T16:03:07.208Z",
+              "WhenOpened": "2025-05-08T15:15:54.936Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeForm.Designer.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\HomeForm.Designer.cs",
-              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\HomeForm.Designer.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\HomeForm.Designer.cs",
-              "RelativeToolTip": "S1 - Taskool (ok)\\HomeForm.Designer.cs",
-              "ViewState": "AgIAADkBAAAAAAAAAAD4v1ABAAAxAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\HomeForm.cs",
+              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\HomeForm.cs",
+              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\HomeForm.cs",
+              "RelativeToolTip": "S1 - Taskool (ok)\\HomeForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:57:07.58Z",
+              "WhenOpened": "2025-05-08T15:13:31.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "parent.cs [Design]",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\parent.cs",
-              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\parent.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\parent.cs [Design]",
-              "RelativeToolTip": "S1 - Taskool (ok)\\parent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:25:29.099Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cadastrar.Designer.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\Cadastrar.Designer.cs",
-              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\Cadastrar.Designer.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\Cadastrar.Designer.cs",
-              "RelativeToolTip": "S1 - Taskool (ok)\\Cadastrar.Designer.cs",
-              "ViewState": "AgIAACEBAAAAAAAAAAD4vz0BAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:09:34.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "S1 - Taskool (ok)\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:09:15.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\Form1.cs",
-              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\Form1.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\Form1.cs",
-              "RelativeToolTip": "S1 - Taskool (ok)\\Form1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T15:05:13.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "HomeForm.cs [Design]",
               "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\HomeForm.cs",
               "RelativeDocumentMoniker": "S1 - Taskool (ok)\\HomeForm.cs",
               "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\HomeForm.cs [Design]",
               "RelativeToolTip": "S1 - Taskool (ok)\\HomeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:28:10.266Z",
+              "WhenOpened": "2025-05-08T15:13:22.891Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Cadastrar.cs [Design]",
-              "DocumentMoniker": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\Cadastrar.cs",
-              "RelativeDocumentMoniker": "S1 - Taskool (ok)\\Cadastrar.cs",
-              "ToolTip": "C:\\09_Projects\\Atividades\\S1 - Taskool (ok)\\S1 - Taskool (ok)\\Cadastrar.cs [Design]",
-              "RelativeToolTip": "S1 - Taskool (ok)\\Cadastrar.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:28:07.867Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 205,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
